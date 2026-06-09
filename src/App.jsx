@@ -45,7 +45,6 @@ function App() {
           <li><a href="#projects">Projects</a></li>
           <li><a href="#certificates">Certificates</a></li>
           <li><a href="#internships">Internships</a></li>
-          <li><a href="#offers">Placements</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
 
@@ -66,9 +65,7 @@ function App() {
         <div className="hero-left">
 <div className="blur-circle blur1"></div>
 <div className="blur-circle blur2"></div>
-          <div className="tag">
-            👋 Hello, I'm
-          </div>
+          
 
            <h1 className="hero-title">
   <span className="white-text">
@@ -138,7 +135,7 @@ through technology and innovation.
               <FaLinkedin />
             </a>
 
-            <a href="mailto:22r11a6739@gcet.edu.in">
+            <a href="mailto:srinivas1884chary@gmail.com">
               <FaEnvelope />
             </a>
 
@@ -189,7 +186,7 @@ through technology and innovation.
            <p>
   I am currently pursuing B.Tech in Data Science at
   Geethanjali College of Engineering and Technology
-  with a CGPA of 8.2. I have strong interest and
+  with a CGPA of 8.47. I have strong interest and
   practical experience in Machine Learning, Data
   Analytics, Web Development and Artificial Intelligence.
 
@@ -232,7 +229,7 @@ through technology and innovation.
               <FaEnvelope />
               <div>
                 <h4>Email</h4>
-                <p>22r11a6739@gcet.edu.in</p>
+                <p>srinivas1884chary@gmail.com</p>
               </div>
             </div>
 
@@ -240,7 +237,7 @@ through technology and innovation.
               <FaBrain />
               <div>
                 <h4>CGPA</h4>
-                <p>8.2</p>
+                <p>8.47</p>
               </div>
             </div>
 
@@ -929,7 +926,7 @@ through technology and innovation.
         </h3>
 
         <p>
-          Amdox Technologies • 2026
+          Amdox Technologies • Feb - May 2026
         </p>
 
       </div>
@@ -939,127 +936,7 @@ through technology and innovation.
   </div>
 
 </section>
-<hr></hr>
-{/* CAREER OPPORTUNITIES */}
 
-<section className="offers-section" id="offers">
-
-  <h2 className="section-title">
-    Placement Offers
-  </h2>
-
-  <div className="offers-grid">
-
-    <a
-    
-      target="_blank"
-      className="offer-card"
-    >
-
-      <img
-        src="/offers/tcs.png"
-        alt="TCS"
-      />
-
-      <div className="offer-content">
-
-        <h3>
-          Assistant System Engineer Trainee
-        </h3>
-
-        <p>
-          Tata Consultancy Services
-        </p>
-
-      
-
-      </div>
-
-    </a>
-
-    <a
-      
-      target="_blank"
-      className="offer-card"
-    >
-
-      <img
-        src="/offers/cog.png"
-        alt="Cognizant"
-      />
-
-      <div className="offer-content">
-
-        <h3>
-          Programmer Analyst Trainee
-        </h3>
-
-        <p>
-          Cognizant GenC
-        </p>
-
-  
-
-      </div>
-
-    </a>
-
-    <a
-      
-      target="_blank"
-      className="offer-card"
-    >
-
-      <img
-        src="/offers/emb.png"
-        alt="Embrizon"
-      />
-
-      <div className="offer-content">
-
-        <h3>
-          Business Development Executive
-        </h3>
-
-        <p>
-          Embrizon Technologies
-        </p>
-
-        
-
-      </div>
-
-    </a>
-
-    <a
-    
-      target="_blank"
-      className="offer-card"
-    >
-
-      <img
-        src="/offers/men.png"
-        alt="Mentee"
-      />
-
-      <div className="offer-content">
-
-        <h3>
-          Trainee Software Engineer
-        </h3>
-
-        <p>
-          Mentee Software Services
-        </p>
-
-
-      </div>
-
-    </a>
-
-  </div>
-
-</section>
 <hr></hr>
       {/* CONTACT */}
 
@@ -1074,7 +951,7 @@ through technology and innovation.
     {/* EMAIL */}
 <a
   className="contact-card"
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=22r11a6739@gcet.edu.in"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=srinivas1884chary@gmail.com"
   target="_blank"
 >
 
@@ -1083,7 +960,7 @@ through technology and innovation.
   <h3>Email</h3>
 
   <p>
-    22r11a6739@gcet.edu.in
+    srinivas1884chary@gmail.com
   </p>
 
 </a>
