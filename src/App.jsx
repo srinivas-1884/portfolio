@@ -186,7 +186,7 @@ through technology and innovation.
            <p>
   I am currently pursuing B.Tech in Data Science at
   Geethanjali College of Engineering and Technology
-  with a CGPA of 8.47. I have strong interest and
+  with a CGPA of 8.35. I have strong interest and
   practical experience in Machine Learning, Data
   Analytics, Web Development and Artificial Intelligence.
 
@@ -237,7 +237,7 @@ through technology and innovation.
               <FaBrain />
               <div>
                 <h4>CGPA</h4>
-                <p>8.47</p>
+                <p>8.35</p>
               </div>
             </div>
 
